@@ -36,6 +36,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ##Home Page code:
+~~~
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -82,7 +83,9 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+~~~
 ##Products code:
+~~~
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -200,7 +203,9 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+~~~
 ##People code:
+~~~
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -269,7 +274,9 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+~~~
 ##Contact Us code:
+~~~
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -312,6 +319,7 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+~~~
 
 ## OUTPUT:
 
