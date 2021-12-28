@@ -34,9 +34,7 @@ Validate the HTML code.
 
 Publish the website in the given URL.
 
-## PROGRAM :
-
-# HOME PAGE :
+## PROGRAM :# HOME PAGE :
 
 <!DOCTYPE html>
 <html lang="en">
@@ -321,7 +319,6 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
 
 
 ## OUTPUT:
